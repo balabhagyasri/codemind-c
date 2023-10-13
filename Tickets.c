@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    int n;
-    scanf("%d",&n);
-    if(n%2==0 && n!=2)
+    int X;
+    scanf("%d",&X);
+    if(X<=250)
     {
         printf("YES");
     }
